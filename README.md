@@ -47,11 +47,10 @@ This project builds a complete, reusable analysis workflow that:
 
 | | |
 |---|---|
-| ![Sales by Category](Superstore-Sales-Analysis\visualizations\03_sales_by_category.png) | ![Correlation Heatmap](Superstore-Sales-Analysis\visualizations/10_correlation_heatmap.png) |
-| ![Monthly Sales Trend](Superstore-Sales-Analysis\visualizations/06_monthly_sales_trend.png) | ![Discount vs Profit](Superstore-Sales-Analysis\visualizations/09_discount_vs_profit.png) |
+| ![Sales by Category](Superstore-Sales-Analysis/visualizations/03_sales_by_category.png) | ![Correlation Heatmap](Superstore-Sales-Analysis/visualizations/10_correlation_heatmap.png) |
+| ![Monthly Sales Trend](Superstore-Sales-Analysis/visualizations/06_monthly_sales_trend.png) | ![Discount vs Profit](Superstore-Sales-Analysis/visualizations/09_discount_vs_profit.png) |
 
-*(All 12 charts are available in the [`visualizations/`](Superstore-Sales-Analysis\visualizations) folder.)*
-
+*(All 12 charts are available in the [`visualizations/`](Superstore-Sales-Analysis/visualizations) folder.)*
 ## 🛠️ Methodology
 
 1. **Data Cleaning** — missing values, duplicates, data types, text formatting, IQR-based outlier detection (kept, not removed, to preserve real large orders)
