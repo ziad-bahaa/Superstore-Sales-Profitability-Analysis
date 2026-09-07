@@ -114,4 +114,4 @@ jupyter notebook notebook/Superstore_Mini_Project_1.ipynb
 
 ---
 
-**Author:** [Your Name] — feel free to connect on [LinkedIn](#) or check out my other projects.
+**Author:** [Dr. Ziad Bahaa] — feel free to connect on [[LinkedIn](https://www.linkedin.com/in/dr-ziad-bahaa/)](#) or check out my other projects.
